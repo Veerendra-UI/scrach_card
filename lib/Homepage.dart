@@ -66,7 +66,7 @@ class _MyHomePageState extends State<MyHomePage> {
                     ),
                     Container(
                       child: Text(
-                        "Dear MalaShree",
+                        "Offers",
                         style: TextStyle(
                           fontWeight: FontWeight.w400,
                           fontSize: 25,
@@ -76,8 +76,7 @@ class _MyHomePageState extends State<MyHomePage> {
                     Spacer(),
                     Container(
                       child: Text(
-                        "Many More Happy \n"
-                            "returns of the day",
+                        "you earn 1 Lacks",
                         style: TextStyle(
                           fontWeight: FontWeight.w400,
                           fontSize: 25,
